@@ -1,4 +1,4 @@
 window.NATIS_SUPABASE_CONFIG = {
-  url: "https://YOUR-PROJECT.supabase.co",
-  anonKey: "YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY",
+  url: "https://xhqfhrafnabxysxnbuvo.supabase.co",
+  anonKey: "sb_publishable_QN3qStP0pljrsRG4Pg8KCQ_joFNTCV7",
 };
