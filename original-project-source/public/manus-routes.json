@@ -1,0 +1,14 @@
+{
+  "routes": [
+    { "path": "/", "title": "Natis Phone Ent" },
+    { "path": "/admin", "title": "Public catalog admin" },
+    { "path": "/phones", "title": "Shop phones" },
+    { "path": "/shop", "title": "Shop phones" },
+    { "path": "/phones/:slug", "title": "Phone details" },
+    { "path": "/brands/:brand", "title": "Shop by brand" },
+    { "path": "/compare", "title": "Compare phones" },
+    { "path": "/cart", "title": "Your cart" },
+    { "path": "/checkout", "title": "Checkout" },
+    { "path": "/order-confirmation/:id", "title": "Order confirmation" }
+  ]
+}
