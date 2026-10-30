@@ -1,0 +1,5 @@
+[build]
+  # The project's base directory is "public", so Netlify publishes
+  # public/backup-static-site. This is the only copy of the static storefront.
+  command = "echo 'Static site: no build step'"
+  publish = "backup-static-site"
