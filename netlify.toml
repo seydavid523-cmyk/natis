@@ -1,9 +1,11 @@
 [build]
-  # Publish the static storefront (catalog, cart, checkout to WhatsApp, and the
-  # admin with product and order/cart dashboards). It is identical to the static
-  # site on main and needs no build step.
-  command = "echo 'Static site: no build step'"
-  publish = "backup-static-site"
+  command = "pnpm build"
+  publish = "dist/public"
 
 [build.environment]
   NODE_VERSION = "22"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
