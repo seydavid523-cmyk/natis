@@ -1,6 +1,8 @@
 [build]
-  command = "pnpm build"
-  publish = "dist/public"
+  # Deploy the original project source kept in original-project-source/.
+  # It has no lockfile of its own, so install without a frozen lockfile.
+  command = "cd original-project-source && pnpm install --no-frozen-lockfile && pnpm build"
+  publish = "original-project-source/dist/public"
 
 [build.environment]
   NODE_VERSION = "22"
