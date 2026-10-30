@@ -1,0 +1,13 @@
+[build]
+  # The project's base directory is `public`, so the published storefront lives
+  # in `public/backup-static-site`. Keep it in sync with `/backup-static-site`.
+  command = "echo 'Static site: no build step'"
+  publish = "backup-static-site"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+[[headers]]
+  for = "/admin/*"
+  [headers.values]
+    X-Robots-Tag = "noindex"
