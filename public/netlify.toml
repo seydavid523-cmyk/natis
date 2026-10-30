@@ -1,0 +1,9 @@
+# The project's base directory is "public", so Netlify reads this file first and
+# resolves paths relative to it. Publish the static storefront that lives one
+# level up in backup-static-site (catalog, cart, WhatsApp checkout, and admin).
+[build]
+  command = "echo 'Static site: no build step'"
+  publish = "../backup-static-site"
+
+[build.environment]
+  NODE_VERSION = "22"
