@@ -1,0 +1,3 @@
+Add your own phone photos to this folder when you want to replace a default product image.
+In the Admin panel, set the matching product's image path to a relative path, for example: images/iphone-13.jpg.
+The storefront uses GSMArena image references for matched phone models; a custom image path takes priority.
