@@ -1,0 +1,74 @@
+﻿Brand,Phone,Storage,Price_GHS,Colour,Notes
+Apple,iPhone 11,64GB,1640,,Listing 1
+Apple,iPhone 11,64GB,1880,,Listing 2
+Apple,iPhone 11,128GB,2180,,
+Apple,iPhone 11 Pro,64GB,2320,,Without box
+Apple,iPhone 11 Pro,64GB,2360,,With box (inbox)
+Apple,iPhone 12,64GB,2110,,Without box
+Apple,iPhone 12,64GB,2150,,With box (inbox)
+Apple,iPhone 12,128GB,2440,,Without box
+Apple,iPhone 12,128GB,2480,,With box (inbox)
+Apple,iPhone 12 Pro,128GB,3010,,Without box
+Apple,iPhone 12 Pro,128GB,3050,,With box (inbox)
+Apple,iPhone 13,128GB,3100,,Without box
+Apple,iPhone 13,128GB,3140,,With box (inbox)
+Apple,iPhone 13,128GB,3150,,Restock
+Apple,iPhone 14,128GB,3500,,Without box
+Apple,iPhone 14,128GB,3550,,With box (inbox)
+Apple,iPhone 14,128GB,3510,,Separate listing
+Apple,iPhone 15,128GB,4950,,"Physical SIM, Europe models"
+Apple,iPhone 15,128GB,5000,,"With box (inbox), Europe models"
+Apple,iPhone 15,128GB,5000,,"Separate listing, without box"
+Apple,iPhone 15,128GB,5050,,"Separate listing, with box (inbox)"
+Apple,iPhone 15 Pro,128GB,6780,,"Physical SIM, inbox"
+Apple,iPhone 15 Pro Max,256GB,8200,,"Physical SIM, inbox"
+Apple,iPhone 16 Plus,128GB,8200,,"Active, BH 100, sealed inbox"
+Apple,iPhone 16 Pro,128GB,8980,,"Physical SIM, sealed, BH 90-100"
+Apple,iPhone 16 Pro,256GB,9480,,"Physical SIM, sealed, BH 90-100"
+Apple,iPhone 16 Pro Max,256GB,10150,,"Physical SIM, BH 94/93/90/88"
+Apple,iPhone 16 Pro Max,256GB,10500,,"Physical SIM, Europe models"
+Apple,iPhone 17 Air,256GB,9300,,"Sealed, inbox, CC 0-10"
+Apple,iPhone 17 Pro,256GB,11500,,"BH 100, CC 2"
+Apple,iPhone 17 Pro,256GB,12500,,"eSIM unlocked, Active, CC 1-10"
+Apple,iPhone 17 Pro,256GB,13300,,"Physical SIM + eSIM, BH 92-100"
+Apple,iPhone 17 Pro Max,256GB,13000,,Listing
+Apple,iPhone 17 Pro Max,256GB,13600,,"BH 100, CC 60"
+Apple,iPhone 17 Pro Max,256GB,14300,,"eSIM unlocked, just Active"
+Apple,iPhone 17 Pro Max,256GB,14800,,"Physical SIM (1 SIM + eSIM), Active, BH 100"
+Apple,iPhone 17 Pro Max,256GB,15000,,"Active, BH 92-100"
+Apple,iPhone 17 Pro Max,256GB,15890,,"Physical SIM, sealed, Non Active, UK models, silver"
+Apple,iPhone 17 Pro Max,256GB,16000,,"Physical SIM, Non Active, UK EE models"
+Apple,iPhone 18 Pro,256GB,16300,Glacier,"Physical SIM, system Active, CC 0"
+Apple,iPhone 18 Pro,256GB,16800,Burgundy,"Physical SIM, system Active, CC 0"
+Apple,iPhone 18 Pro,256GB,16800,Glacier,Later listing
+Apple,iPhone 18 Pro,256GB,17800,Burgundy,Later listing
+Apple,iPhone 18 Pro,256GB,18400,Glacier,Another listing
+Apple,iPhone 18 Pro,256GB,18500,Burgundy,Another listing
+Apple,iPhone 18 Pro Max,256GB,19900,Glacier,"Physical SIM (1 SIM + eSIM), system Active, CC 0"
+Apple,iPhone 18 Pro Max,256GB,20300,Glacier,"Physical SIM (1 SIM + eSIM), system Active, CC 0"
+Apple,iPhone 18 Pro Max,256GB,20800,Glacier,Earlier listing
+Apple,iPhone 18 Pro Max,256GB,21600,Burgundy,"Physical SIM (1 SIM + eSIM), system Active, CC 0"
+Apple,iPhone 18 Pro Max,256GB,21950,Burgundy,Another listing
+Apple,iPhone 18 Pro Max,256GB,22400,Glacier,Another listing
+Apple,iPhone 18 Pro Max,256GB,22800,Burgundy,Another listing
+Apple,iPhone 18 Pro Max,256GB,23200,,"Physical SIM, Non Active"
+Apple,iPhone 18 Pro Max,512GB,23700,Glacier,
+Apple,iPhone 18 Pro Max,512GB,23990,Burgundy,
+Samsung,Galaxy A06,128GB+4GB,1450,,Brand new inbox
+Samsung,Galaxy A07,128GB+4GB,1600,,Brand new inbox
+Samsung,Galaxy A16,128GB+4GB,1630,,
+Samsung,Galaxy A53 5G,128GB+6GB,1550,,Original USA
+Samsung,Galaxy A54 5G,128GB+6GB,2300,,Original USA
+Samsung,Galaxy A56 5G,256GB+12GB,3450,,All brand new
+Samsung,Galaxy S20 5G,128GB+8GB,1800,,Original USA
+Samsung,Galaxy S20 Plus,128GB+8GB,1950,,Original USA
+Samsung,Galaxy S22 Plus,128GB+8GB,2900,,Without box
+Samsung,Galaxy S22 Plus,128GB+8GB,2980,,With box (inbox)
+Samsung,Galaxy S22 Ultra,128GB+8GB,3600,,Original USA
+Samsung,Galaxy S23 Plus,256GB+8GB,4000,,Original USA / UK EE models
+Samsung,Galaxy S24 Plus,256GB+12GB,4500,,
+Samsung,Galaxy S24 Ultra,256GB+12GB,7500,,All original USA
+Samsung,Galaxy S24 Ultra,256GB+12GB,7600,,Inbox
+Samsung,Galaxy S25 Ultra,256GB+12GB,8500,,Original
+Samsung,Galaxy S25 Ultra,256GB+12GB,8800,,"Inbox, original USA & UK EE models"
+Samsung,Galaxy Z Fold 7,512GB+12GB,14000,,Available now
